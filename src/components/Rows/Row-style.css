@@ -19,9 +19,9 @@
 .top-button{
   float: right;
   font-style: italic;
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   font-size: 1rem;
-  border-radius: 30%;
-
+  margin-bottom: 0rem;
+  margin-top: 2.5rem;
 }
