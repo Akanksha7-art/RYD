@@ -9,9 +9,17 @@
    box-shadow: -32px 13px 8px 0px rgba(212,181,176,0.84);
 }
 .heading{
+  float: left;
   padding-left: 3rem;
   padding-top: 2rem;
   padding-bottom: 0;
   font-style: italic;
   font-size: 2rem;
+  
+}
+.top-button{
+  float: right;
+  padding: 1rem;
+  font-style: italic;
+  font-size: 1.2rem;
 }
